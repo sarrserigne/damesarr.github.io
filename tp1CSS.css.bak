@@ -1,0 +1,104 @@
+.P10{
+    width:1000px; 	
+	height:300px;
+	padding:0px;
+	margin:5px;
+}
+
+.P20{
+	color:pink;
+	background-color:grey;
+}
+.P30{
+	background-color:pink;
+	color:grey;
+	line-height:0px;
+	border: 2px solid grey;
+	border-bottom-style:dotted;
+}
+.P40{
+	background-color:white;
+	color:grey;
+	margin:0px;
+	border: 2px solid grey;
+	border-bottom-style:dotted;
+}
+.P50{
+	background-color:pink;
+	border: 2px solid grey;
+	border-bottom-style:dotted;
+}
+.P70{
+	background-color:pink;
+	border-bottom-style:dotted;
+}
+.P80{
+	border: 5px dashed grey;
+}
+.P100{
+	border: 1px solid grey;
+	background-color:pink;
+	color:grey;
+	border-radius:5px;
+	font-size:11px;
+	text-align:center;
+	padding:1px;
+	margin:40px;
+}
+.P101{
+	margin-left:auto;
+	margin-right:auto;
+}
+.Pa{
+    border-radius: 5px;	
+	border-color:grey;
+	margin:1px;
+}
+.Pb{
+	 border-radius: 5px;	
+	border-color:grey;
+	margin:1px;
+}
+.Pc{
+	 border-radius: 5px;	
+	border-color:grey;
+	margin:1px;
+}
+.Pd{
+	 border-radius: 5px;	
+	border-color:grey;
+	margin:1px;
+}
+.Pe{
+	 border-radius: 5px;	
+	border-color:grey;
+	margin:1px;
+}
+.PA{
+	line-height:0px;
+	color:grey;
+	border: 2px solid grey;
+	border-bottom-style:dotted;
+}
+.PB{
+	border-radius:100px;
+}
+.PC{
+	border-radius:25px;
+}
+.PD{
+	border-radius:0px;
+}
+.ad{
+	border: 2px solid grey;
+	border-bottom-style: 2px hidden grey;
+	border-bottom-style:dotted;
+}
+.im{
+	border: 2px solid grey;
+	border-bottom-style:dotted;
+}
+.Fm{
+	padding:70px;
+	margin:50px;
+}
